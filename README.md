@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Poorva06
 - 👀 I’m interested in Java
-- 🌱 I’m currently learning C and UI/UX
+- 🌱 I’m currently learning Python, C and UI/UX
 - 💞️ I’m looking to collaborate on app building
 - 📫 How to reach me : c.poorva06@gmail.com
 
